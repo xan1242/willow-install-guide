@@ -188,7 +188,7 @@ In case you have the license (game in your account), you can skip this entire se
     
     ![lp_dialog6.png](./pics/lp_dialog6.png)
     
-    - If you never see this screen, go to the "Lucky Patcher Troubleshooting" section
+    - If you never see this screen, go to the "Lucky Patcher Troubleshooting" section below
 
 11. If you're presented with the "Google Play Protect" dialog:
     
@@ -208,7 +208,7 @@ In case you have the license (game in your account), you can skip this entire se
     
     - It has to look exactly like this screenshot with the "Custom patch available" text and yellow title
     
-    - In case it is NOT yellow, follow the steps described in the "Lucky Patcher Troubleshooting" section, then go back here and continue
+    - In case it is NOT yellow, follow the steps described in the "Lucky Patcher Troubleshooting" section below, then go back here and continue
 
 14. Select "Menu of Patches"
     
