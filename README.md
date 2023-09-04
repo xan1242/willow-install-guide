@@ -14,7 +14,7 @@ The general gist is the following:
 
 - Run  `willow-install` and follow its instructions (which involve installing Lucky Patcher and a license bypass patch for the game)
 
-And that's basically all there is to it to running the modded build of the game. 
+And that's basically all there is to running the modded build of the game. 
 
 If you know what you're doing, this shouldn't be too hard to follow.
 
