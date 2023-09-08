@@ -226,7 +226,9 @@ In case you have the license (game in your account), you can skip this entire se
     
     ![lp_list6.png](./pics/lp_list6.png)
 
-This should now conclude the patching process. You may uninstall Lucky Patcher now as well.
+This should now conclude the patching process.
+
+**NOTE:** You must keep Lucky Patcher installed at all times. It is required for the game to run without a license.
 
 ### Part 3: Launch the game
 
