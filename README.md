@@ -2,7 +2,7 @@
 
 This guide will describe the process of installing Yu-Gi-Oh! Cross Duel on MEmu or a rooted Android device by using the "willow-install" script.
 
-Note that willow-install only supports Windows for now. Linux and macOS support will come at a later time.
+Note that willow-install / willow-updatemod only supports Windows for now. Linux and macOS support will come at a later time.
 
 ## Overview / summary
 
@@ -12,13 +12,19 @@ The general gist is the following:
 
 - Plug in a rooted device with ADB enabled / run an emulator with root enabled
 
-- Run  `willow-install` and follow its instructions (which involve installing Lucky Patcher and a license bypass patch for the game)
+- Run `willow-install` and follow its instructions (which involve installing Lucky Patcher and a license bypass patch for the game)
 
 And that's basically all there is to running the modded build of the game. 
 
 If you know what you're doing, this shouldn't be too hard to follow.
 
 If you don't, then the rest of this guide is for you!
+
+## Updating an existing install of Cross Duel
+
+If you only need to update an existing install with modifications to connect to a custom server, simply run `willow-updatemod` instead and follow the instructions.
+
+In case you do not have a Google Play license, follow the Lucky Patcher instructions below. (This only works with 1.8.1 for now)
 
 ## Getting started
 
