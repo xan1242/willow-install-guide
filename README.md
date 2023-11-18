@@ -20,7 +20,7 @@ If you know what you're doing, this shouldn't be too hard to follow.
 
 If you don't, then the rest of this guide is for you!
 
-## Updating an existing install of Cross Duel
+## Updating/modifying an existing install of Cross Duel
 
 If you only need to update an existing install with modifications to connect to a custom server, simply run `willow-updatemod` instead and follow the instructions.
 
